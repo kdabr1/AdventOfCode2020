@@ -8,5 +8,5 @@ Day #4 - Unstructured data, data validation, regex validation<br>
 Day #5 - Binary numbers<br>
 Day #6 - Text analysis, unstructured data<br>
 Day #7 - Data manipulation, nested loop calculation<br>
-Day #8 - Data manipulation, loop statements, condition statements, error handeling
-Day #9 - Nested loop statement, process optimization
+Day #8 - Data manipulation, loop statements, condition statements, error handeling<br>
+Day #9 - Nested loop statement, process optimization<br>
