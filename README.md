@@ -1,6 +1,6 @@
 # AdventOfCode2020
 My attempt to solve Python puzzles provided by Advent of Code 2020 - https://adventofcode.com/2020<br>
-The trick is to solve the complex problem with as few lines of the code as possible and in the most optimized way.
+The trick is to solve the complex problem in the most optimized way.
 
 List of content:<br>
 Day #1 - Math calculation, reverse calculation<br>
